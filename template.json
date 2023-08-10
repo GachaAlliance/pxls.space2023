@@ -1,0 +1,25 @@
+{
+  "contact": "United Gacha Alliance: https://discord.gg/unitedgacha",
+  "templates": [
+    {
+      "name": "UGA Banner",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131597828561584188/1133541499188039690/FSWWz3vNLpeDQwiYSf8Z.png"
+      ],
+      "x": 750,
+      "y": 1121
+    }
+  ],
+  "whitelist": [
+  ],
+  "blacklist": [
+    {
+      "name": "Deprecated r/place 2023 template",
+      "url": "https://rentry.org/unitedgacha/raw"
+    },
+    {
+      "name": "r/place 2023 template",
+      "url": "https://github.com/GachaAlliance/place2023/blob/main/template.json"
+    }
+  ]
+}
